@@ -1,38 +1,21 @@
-# PRS-PSUPR-2019-08-31-IS1FT-GRP-TeamName-ProjectName
+# PRS-PSUPR-2019-08-31-IS1FT-GRP-TeamName-ProjectName(CA2)
 
 ## SECTION 0 : Temporary note
 
 **Requirement**
 
-(1)Find one dataset for a classification or regression problem. The dataset should have at least 3000 records and 30 variables.
+•Build a dataset for a classification /detection / prediction problem.
 
-(2)Use at least 3 different techniques to solve the problem.
+•The dataset should have at least 1000 samples for each class.
 
-(3)You should partition the dataset into several subsets for different purposes eg. Training, Validation, Testing.
+•Partition the dataset into several subsets for different purpose, e.g.training, validation and testing
 
-(4)Build individual models to achieve the highest possible accuracy or lowest possible MSE.
+•Use only deep learning to solve theproblem
 
-(5)Build ensemble/hybrid models.
-
-(6)Compare the performance of individual/ensemble models to identify the best solution.
-
-**Submission**
-
-The dataset
-
-Areport to describe:
-
-Tools/techniques you have used
-
-your design of the models
-
-the performance of your models on the dataset (detailed results)
-
-your understanding and findings.
-
-Python/R/Java/… codes, model files, other supporting documents (if any)
+•Train and test a model that achieve the highest possible accuracy
 
 **Submission deadline**
+
 30/09/2019
 
 ## SECTION 1 : PROJECT TITLE
@@ -45,7 +28,40 @@ Python/R/Java/… codes, model files, other supporting documents (if any)
 | Alfred Tay Wenjie | A0198541W | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz|  |
 | Wang Zilong | A0198523W | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz|  |
 
-## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
-## SECTION 5 : USER GUIDE
+## SECTION 4 : PYTHON SCRIPT
+
+Submit the final training python
+script, a testing python script
+
+## SECTION 5 : Conda Enviroment & RUNNING STEPS 
+
+a text file that specifies the steps
+needed to re-produce the required
+Conda environment, the steps to run
+the training and testing scripts
+
 ## SECTION 6 : PROJECT REPORT / PAPER
-## SECTION 7 : MISCELLANEOUS
+
+The report must describe:
+
+•The steps to build the dataset
+
+•The design of the models
+
+•The processes taken to fine tune the
+model
+
+The report must also discuss:
+
+•The problems you are trying to solve
+
+•The challenges
+
+•The performance of your models
+
+•Findings and conclusions
+
+## SECTION 7 : DATASET
+
+You are required to submit the
+dataset
