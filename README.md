@@ -19,8 +19,7 @@
 30/09/2019
 
 ## SECTION 1 : PROJECT TITLE
-## SECTION 2 : EXECUTIVE SUMMARY / PAPER ABSTRACT
-## SECTION 3 : CREDITS / PROJECT CONTRIBUTION
+## SECTION 2 : CREDITS / PROJECT CONTRIBUTION
 
 | Official Full Name  | Student ID (MTech Applicable)  | Work Items (Who Did What) | Email (Optional) |
 | :------------ |:---------------:| :-----| :-----|
@@ -28,19 +27,27 @@
 | Alfred Tay Wenjie | A0198541W | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz|  |
 | Wang Zilong | A0198523W | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz|  |
 
-## SECTION 4 : PYTHON SCRIPT
+## SECTION 3 : DATASET
 
-Submit the final training python
-script, a testing python script
+You are required to submit the
+dataset
 
-## SECTION 5 : CONDA ENVIRONMENT & RUNNING STEPS 
+## SECTION 4 : CONDA ENVIRONMENT & RUNNING STEPS 
 
 a text file that specifies the steps
 needed to re-produce the required
 Conda environment, the steps to run
 the training and testing scripts
 
+## SECTION 5 : PYTHON SCRIPT
+
+Submit the final training python
+script, a testing python script
+
 ## SECTION 6 : PROJECT REPORT / PAPER
+
+Submit a clear and comprehensive
+report
 
 The report must describe:
 
@@ -61,7 +68,4 @@ The report must also discuss:
 
 •Findings and conclusions
 
-## SECTION 7 : DATASET
 
-You are required to submit the
-dataset
