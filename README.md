@@ -33,7 +33,7 @@
 Submit the final training python
 script, a testing python script
 
-## SECTION 5 : Conda Enviroment & RUNNING STEPS 
+## SECTION 5 : CONDA ENVIRONMENT & RUNNING STEPS 
 
 a text file that specifies the steps
 needed to re-produce the required
